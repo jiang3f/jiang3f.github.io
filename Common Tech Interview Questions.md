@@ -3,6 +3,7 @@ A collection of common technical interview questions, in my own words.
 ### Table of Contents
 
 [What's the differences between Dash manifest and HLS manifest?](#sid_1)
+
 [How to create encrypted HLS contents](#sid_2)
 
 <a id="sid_1"></a>
